@@ -7,3 +7,64 @@ html {
   font-family: 'Open Sans', sans-serif;
   font-size: 18px
 }
+
+.Frenconionsouppic {
+  background-image: url("../images/soup.jpg");
+  background-size: cover;
+  padding-top: 200px;
+  padding-bottom: 250px;
+  }
+  .Frenchsoup {
+    color: #ffffff;
+    display: flex;
+    justify-content: center;  
+  }
+  
+  .parag {
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+  }
+  
+  .recipeinfo {
+    display: flex;
+    justify-content: center;
+    border-bottom:  3px solid darkgray;
+    margin-top: 30px;
+  }
+  
+  .recipepic {
+    max-width: 350px;
+    margin-bottom: 20px;  
+  }
+  
+  .ingr {
+    font-size: 22px;
+    margin-bottom: 20px;
+  }
+  
+  .ingr1 {
+    padding-left: 20px;
+    list-style-type: "-";
+    }
+  
+  .cookinginfo {
+    max-width: 350px;
+    margin-bottom: 20px;  
+  }
+  
+  .directions {
+    display: flex;
+    justify-content: center;
+    border-bottom:  3px solid darkgray;
+    margin-top: 30px;
+  }
+  
+  .dirc {
+    font-size: 22px;
+    margin-bottom: 20px;
+  }
+  
+  .dirc1 {
+    padding-left: 20px;
+  }
